@@ -78,6 +78,7 @@ Após criar o seu Pull Request, nossa automação irá validar a sua submissão.
     
     
 ## Convenção de Commits 
+Uma convenção de commits é um conjunto de regras que define um padrão para escrever mensagens de commit no Git
 
 | Tipo de Commit |Descrição                                                            | Exemplo
 | ---------------|----------------------------------------------------------------------|-----------
